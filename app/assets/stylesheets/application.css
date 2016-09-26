@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+#location{
+    color: #FFFFFF;
+    background-color: green;
+}
+
+#funfact{
+    font-weight: bold;
+    color: red;
+}
+
+#excitement{
+
+    text-decoration: underline;
+    color: darkblue;
+}
